@@ -1,0 +1,4 @@
+num_of_partions : 2
+target_bucket : "pyspark-trp-01"
+source_table : "csv_2022_tbl"
+file_format : ".csv"

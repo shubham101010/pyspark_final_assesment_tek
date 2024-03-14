@@ -1,0 +1,4 @@
+source_bucket: "pyspark-trp-01"
+source_file: "csv_2022_shubam.csv"
+target_table: "csv_2022_tbl"
+source_sql: "SELECT * FROM csv_tbl WHERE country = 'India';"
